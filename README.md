@@ -1,6 +1,6 @@
 # 🏠 Калькулятор нищеброда
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/russia-mortgage/deploy-status)](https://russian-mortgage.netlify.app/)
+[![Netlify Status]](https://russian-mortgage.netlify.app/)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-russian--mortgage.netlify.app-blue?style=for-the-badge)](https://russian-mortgage.netlify.app/)
 
 > Посчитай, сколько лет копить на квартиру, пока цены растут быстрее твоей зарплаты.
